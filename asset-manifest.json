@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flipkartclone/static/css/main.2ff025d8.css",
+    "main.js": "/flipkartclone/static/js/main.f181ce5f.js",
+    "static/js/787.aa44b8e3.chunk.js": "/flipkartclone/static/js/787.aa44b8e3.chunk.js",
+    "index.html": "/flipkartclone/index.html",
+    "main.2ff025d8.css.map": "/flipkartclone/static/css/main.2ff025d8.css.map",
+    "main.f181ce5f.js.map": "/flipkartclone/static/js/main.f181ce5f.js.map",
+    "787.aa44b8e3.chunk.js.map": "/flipkartclone/static/js/787.aa44b8e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff025d8.css",
+    "static/js/main.f181ce5f.js"
+  ]
+}
